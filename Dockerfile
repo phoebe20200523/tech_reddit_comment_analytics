@@ -1,6 +1,3 @@
-# I didn't use the alphine version since there was no python wheel for Kafka, so I was forced to build it on my own.
-# This is obviosly something that I did many times, but it takes time and relevant when used on production.
-#https://github.com/confluentinc/confluent-kafka-python/issues/1326
 FROM python:3.8.13-slim-bullseye
 
 RUN apt-get update && \
