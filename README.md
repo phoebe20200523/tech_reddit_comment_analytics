@@ -16,7 +16,10 @@ a `Kibana` dashboard to identify the active Redditors and hot topics within user
         4.5% to 6.45% as for "TikTok", 📈
         decreased from 4.7% to 3.24% as for "SVB", 📉
         during the period of March 26 to April 5.
+#### Dashboard on March 26 
 <img src="https://user-images.githubusercontent.com/65870261/227825800-c33f0641-3798-4555-9ab6-d7d91d251094.png" width="600" height="552" />
+
+#### Dashboard on April 15
 <img src="https://user-images.githubusercontent.com/65870261/230119152-3dd3b4a5-49ac-40da-bf13-95f0a1e8ec23.jpg" width="600" height="552" />
 
 
