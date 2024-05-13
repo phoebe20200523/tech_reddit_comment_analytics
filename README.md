@@ -3,7 +3,7 @@
 
 * Designed a microservice architecture to perform real-time analytics on comments from technology-related subreddits
 (e.g., r/technology), with a cumulative analysis of over `220k` comments from `76k` users.
-* Utilized `Kafka` as the data broker to decouple the comment ingestion and keyword extraction using named entity
+* Utilized `Kafka` as the message broker to decouple the comment ingestion and keyword extraction using named entity
 recognition enabled by `Spacy`.
 * Streamed data from Kafka to `Elasticsearch` using `Kafka Connect Elasticsearch Sink` and `ksqlDB`, and built
 a `Kibana` dashboard to identify the active Redditors and hot topics within user-specified time range.
